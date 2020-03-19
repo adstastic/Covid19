@@ -1,17 +1,39 @@
 # Covid19
 A curated list of links related to the Covid19 outbreak. Advice, free stuff, explainers, maybe some news. 
-An attempt to collate useful resources minus the hype and panic. News will probably be UK-centric.
+An attempt to collate useful resources minus the hype and panic. Likely to be UK centric. 
+Hope this helps!
 
 ## Lists (like this one)
 * https://coronavirustechhandbook.com/
 
-## The Virus
-### Volunteering
+## Volunteering
 * Mutual Aid - https://covidmutualaid.org
 * Project ideas - https://helpwithcovid.com/
 * Folding@Home - https://foldingathome.org/2020/03/15/coronavirus-what-were-doing-and-how-you-can-help-in-simple-terms/
 
+## Non-virus-related
+No news, data, stats, etc. Nothing to do with the epidemic directly. Just helpful resources and some uplifting stuff.
+
+### Palate Cleansers
+* Penguins openly explore aquarium closed due to coronavirus - https://www.youtube.com/watch?v=DVfTGFBJ8a8
+
+### Free Stuff
+* Headspace - free meditations - https://www.headspace.com/covid-19
+* Brain.fm - 1 month free - https://www.brain.fm/login?next=/app/refer-a-friend
+* Cambridge University Press - All Cambridge Core books free - https://www.cambridge.org/core/what-we-publish/textbooks
+
+### Remote Work
+* Help for small businesses - https://www.smbhelp.com/
+* Remote working - https://www.glassdoor.co.uk/blog/8-tips-working-remote/
+
+### Home Exercise
+* Pavel Tsatsouline - Enter the Kettlebell - https://www.youtube.com/watch?v=cKx8xE8jJZs
+* Paul Wade - Convict Conditioning - https://archive.org/details/ConvictConditioning-HowToBustFreeOfAllWeaknessUsingTheLostSecretsOfSupremeSurvival_201711/mode/2up
+
+## Virus-related
+
 ### Explainers
+Useful blog posts, articles, threads to understanding the epidemic and develop better mental models.
 * Exponential growth and epidemics - https://www.youtube.com/watch?v=Kas0tIxDvrg
 * How to flatten the growth curve - https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
 * Getting an intuition of how to contain covid19 - https://www.meltingasphalt.com/interactive/outbreak/
@@ -28,23 +50,16 @@ An attempt to collate useful resources minus the hype and panic. News will proba
 * John Hopkins University - https://systems.jhu.edu/research/public-health/ncov-model-2/
 
 ### Press Releases
-* Slack - https://foldingathome.org/2020/03/15/coronavirus-what-were-doing-and-how-you-can-help-in-simple-terms/
+Commonly used services.
+* Slack - https://slackhq.com/business-continuity-plan-covid-19
 * Sainsbury's - https://www.about.sainsburys.co.uk/news/latest-news/2020/18-03-20-feed-the-nation
 * Ocado - https://www.ocado.com/content/coronavirus-information-and-updates-167560
 * Tesco - https://www.tescoplc.com/news/2020/covid-19-a-message-to-our-customers-from-dave-lewis-tesco-ceo/
 
-## Everything else
-### Free Stuff
-* Headspace - free meditations - https://www.headspace.com/covid-19
-* Brain.fm - 1 month free - https://www.brain.fm/login?next=/app/refer-a-friend
-* Cambridge University Press - All Cambridge Core books free - https://www.cambridge.org/core/what-we-publish/textbooks
-
-### Remote Work
-* Help for small businesses - https://www.smbhelp.com/
-* Remote working - https://www.glassdoor.co.uk/blog/8-tips-working-remote/
-
-### Home exercise
-* Pavel Tsatsouline - Enter the Kettlebell - https://www.youtube.com/watch?v=cKx8xE8jJZs
-* Paul Wade - Convict Conditioning - https://archive.org/details/ConvictConditioning-HowToBustFreeOfAllWeaknessUsingTheLostSecretsOfSupremeSurvival_201711/mode/2up
-
-
+### Useful Twitter Accounts
+Accounts that tweet helpful and factual updates.
+* https://twitter.com/jburnmurdoch
+* https://twitter.com/globalhlthtwit
+* https://twitter.com/DrEricDing
+* https://twitter.com/DrDenaGrayson
+* https://twitter.com/coronaviruscare
