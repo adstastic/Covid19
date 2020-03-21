@@ -39,6 +39,7 @@ Useful blog posts, articles, threads to understanding the epidemic and develop b
 * Getting an intuition of how to contain covid19 - https://www.meltingasphalt.com/interactive/outbreak/
 * Modelling the spread in UK (and US) - https://twitter.com/jburnmurdoch/status/1240629424871047168
 * How much cash small businesses tend to have - https://twitter.com/CardiffGarcia/status/1239965656172228608
+* The Hammer and the dance - https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56
 
 ### Stats
 * Global Change Data Lab - https://ourworldindata.org/coronavirus
