@@ -64,3 +64,4 @@ Accounts that tweet helpful and factual updates.
 * https://twitter.com/DrEricDing
 * https://twitter.com/DrDenaGrayson
 * https://twitter.com/coronaviruscare
+* https://twitter.com/devisridhar
