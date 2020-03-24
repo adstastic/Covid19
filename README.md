@@ -42,6 +42,7 @@ Useful blog posts, articles, threads to understanding the epidemic and develop b
 * The Hammer and the dance - https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56
 
 ### Stats
+* Financial Times Daily Coverage - https://www.ft.com/coronavirus-latest
 * Global Change Data Lab - https://ourworldindata.org/coronavirus
 * John Hopkins University - https://coronavirus.jhu.edu/map.html
 * Public Health England - https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14
