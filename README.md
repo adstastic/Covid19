@@ -40,6 +40,8 @@ Useful blog posts, articles, threads to understanding the epidemic and develop b
 * Modelling the spread in UK (and US) - https://twitter.com/jburnmurdoch/status/1240629424871047168
 * How much cash small businesses tend to have - https://twitter.com/CardiffGarcia/status/1239965656172228608
 * The Hammer and the dance - https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56
+* Coronavirus mutations - https://twitter.com/trvrb/status/1242628550563250176
+* Problems of supplying enough PPE - https://twitter.com/typesfast/status/1242490035707895808
 
 ### Stats
 * Financial Times Daily Coverage - https://www.ft.com/coronavirus-latest
