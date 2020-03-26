@@ -48,6 +48,7 @@ Useful blog posts, articles, threads to understanding the epidemic and develop b
 * Global Change Data Lab - https://ourworldindata.org/coronavirus
 * John Hopkins University - https://coronavirus.jhu.edu/map.html
 * Public Health England - https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14
+* Statnews - https://www.statnews.com/2020/03/26/covid-19-tracker/
 
 ### Models
 * Imperial College London - https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf
