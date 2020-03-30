@@ -28,6 +28,7 @@ Useful blog posts, articles, threads to understanding the epidemic and develop b
 * The Hammer and the dance - https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56
 * Coronavirus mutations - https://twitter.com/trvrb/status/1242628550563250176
 * Problems of supplying enough PPE - https://twitter.com/typesfast/status/1242490035707895808
+* Simulating an epidemic - https://youtu.be/gxAaO2rsdIs
 
 ### Stats
 * Financial Times Daily Coverage - https://www.ft.com/coronavirus-latest
