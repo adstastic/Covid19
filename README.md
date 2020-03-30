@@ -11,26 +11,12 @@ Hope this helps!
 * Project ideas - https://helpwithcovid.com/
 * Folding@Home - https://foldingathome.org/2020/03/15/coronavirus-what-were-doing-and-how-you-can-help-in-simple-terms/
 
-## Non-virus-related
-No news, data, stats, etc. Nothing to do with the epidemic directly. Just helpful resources and some uplifting stuff.
-
-### Palate Cleansers
-* Penguins openly explore aquarium closed due to coronavirus - https://www.youtube.com/watch?v=DVfTGFBJ8a8
-
-### Free Stuff
-* Headspace - free meditations - https://www.headspace.com/covid-19
-* Brain.fm - 1 month free - https://www.brain.fm/login?next=/app/refer-a-friend
-* Cambridge University Press - All Cambridge Core books free - https://www.cambridge.org/core/what-we-publish/textbooks
-
-### Remote Work
-* Help for small businesses - https://www.smbhelp.com/
-* Remote working - https://www.glassdoor.co.uk/blog/8-tips-working-remote/
-
-### Home Exercise
-* Pavel Tsatsouline - Enter the Kettlebell - https://www.youtube.com/watch?v=cKx8xE8jJZs
-* Paul Wade - Convict Conditioning - https://archive.org/details/ConvictConditioning-HowToBustFreeOfAllWeaknessUsingTheLostSecretsOfSupremeSurvival_201711/mode/2up
-
 ## Virus-related
+
+## Screening
+* Apple - https://www.apple.com/covid19
+* JoinZoe - https://covid.joinzoe.com
+* NHS - https://111.nhs.uk/covid-19
 
 ### Explainers
 Useful blog posts, articles, threads to understanding the epidemic and develop better mental models.
@@ -69,3 +55,24 @@ Accounts that tweet helpful and factual updates.
 * https://twitter.com/DrDenaGrayson
 * https://twitter.com/coronaviruscare
 * https://twitter.com/devisridhar
+
+## Non-virus-related
+No news, data, stats, etc. Nothing to do with the epidemic directly. Just helpful resources and some uplifting stuff.
+
+### Palate Cleansers
+* Penguins openly explore aquarium closed due to coronavirus - https://www.youtube.com/watch?v=DVfTGFBJ8a8
+
+### Free Stuff
+* Headspace - free meditations - https://www.headspace.com/covid-19
+* Brain.fm - 1 month free - https://www.brain.fm/login?next=/app/refer-a-friend
+* Cambridge University Press - All Cambridge Core books free - https://www.cambridge.org/core/what-we-publish/textbooks
+
+### Remote Work
+* Help for small businesses - https://www.smbhelp.com/
+* Remote working - https://www.glassdoor.co.uk/blog/8-tips-working-remote/
+
+### Home Exercise
+* Pavel Tsatsouline - Enter the Kettlebell - https://www.youtube.com/watch?v=cKx8xE8jJZs
+* Paul Wade - Convict Conditioning - https://archive.org/details/ConvictConditioning-HowToBustFreeOfAllWeaknessUsingTheLostSecretsOfSupremeSurvival_201711/mode/2up
+
+
